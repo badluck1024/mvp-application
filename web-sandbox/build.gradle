@@ -73,7 +73,6 @@ assets {
     minifyCss = true
 }
 
-
 grails {
     plugins {
         compile project(":mod-sandbox")
